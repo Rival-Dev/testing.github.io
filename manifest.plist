@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>https://www.google.ca/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwiNmpXz6afTAhVC2IMKHeUbDCwQjRwIBw&url=https%3A%2F%2Fwww.reddit.com%2Fr%2Fjailbreak%2Fcomments%2F5tx4yl%2Fdiscussion_i_edited_the_yalu_icon_to_replace_kim%2F&psig=AFQjCNGw5H8LXS7NgcvBnuAC6TV7bNykpw&ust=1492392622849200</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>url</key>
+					<string>https://rival-dev.github.io/yalu102/AppIcon60x60@2x.png</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>url</key>
+					<string>https://www.google.ca/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwiNmpXz6afTAhVC2IMKHeUbDCwQjRwIBw&url=https%3A%2F%2Fwww.reddit.com%2Fr%2Fjailbreak%2Fcomments%2F5tx4yl%2Fdiscussion_i_edited_the_yalu_icon_to_replace_kim%2F&psig=AFQjCNGw5H8LXS7NgcvBnuAC6TV7bNykpw&ust=1492392622849200</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>com.intelcent.iCallLiaoLeMe</string>
+				<key>bundle-version</key>
+				<string>1.0</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>title</key>
+				<string>Yalu 102</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
